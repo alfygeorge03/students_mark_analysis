@@ -71,6 +71,8 @@ Microsoft PowerPoint
 
 AI
 
+Project Files
+
 student_project.xlsx
 
 student_report.docx
