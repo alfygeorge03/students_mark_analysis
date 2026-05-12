@@ -78,5 +78,5 @@ student_project.xlsx
 student_report.docx
 
 student_project_presentation.pptx
-
+screenshot.png
 README.md
